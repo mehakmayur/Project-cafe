@@ -339,12 +339,14 @@ footer {
 .mm{
     background-color: #d66413;
     border: double rgba(88, 23, 4, 0.999);
-    border-radius: 3%;
+    border-radius: 3;
+    width:auto;
 }
 .mm1{
     background-color: hsl(27, 83%, 39%);
     border: double #7e2d2d;
     border-radius: 10% ;
+    width:auto;
 
 }
 .mm3{
@@ -352,6 +354,7 @@ footer {
     border:double  rgb(141, 54, 13);
     border-radius: 10%;
     height: 600px;
+    width:auto;
 
 }
 /* Contact Section */
@@ -661,6 +664,7 @@ footer {
     background: #6f4e37;
     color: white;
 }
+
 
 
 
